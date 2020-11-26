@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "810151755495",
+    "firebase_url": "https://skilldevelopment-4ab1e.firebaseio.com",
+    "project_id": "skilldevelopment-4ab1e",
+    "storage_bucket": "skilldevelopment-4ab1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810151755495:android:3994b6f076711f427e2c42",
+        "android_client_info": {
+          "package_name": "com.example.skilldevelopement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810151755495-kogjtiqihg2287qnvt1imfi9oriqeu0i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwQQpZo-YW6h4bqfuiFOLmrltFN8yK2fg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810151755495-kogjtiqihg2287qnvt1imfi9oriqeu0i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
